@@ -1,0 +1,8 @@
+[project]
+name = "crm-rmm"
+version = "0.1.0"
+description = "MVP CRM/RMM/PSA business core"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

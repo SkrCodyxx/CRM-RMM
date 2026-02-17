@@ -1,5 +1,3 @@
 __pycache__/
 *.pyc
-.venv/
-crm_rmm.db
-.pytest_cache/
+
